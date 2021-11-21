@@ -8,7 +8,7 @@
 A template for building OpenWrt with GitHub Actions
 使用[lede](https://github.com/coolsnowwolf/lede)源码
 - R2S固件：
-  默认用户：root
-  默认密码：password
-  无Docker
-  包含nps,frpc,frps,unblockNeteaseMusic,qbittorrent,AdguardHome,openclash
+- 默认用户：root
+- 默认密码：password
+- 无Docker
+- 包含nps,frpc,frps,unblockNeteaseMusic,qbittorrent,AdguardHome,openclash
