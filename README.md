@@ -8,8 +8,10 @@
 > A template for building OpenWrt with GitHub Actions
 
 - R2S固件：
+- 默认地址：192.168.1.1
 - 默认用户：root
 - 默认密码：password
 - 无Docker
 - 包含
-  - nps,frpc,frps,unblockNeteaseMusic,qbittorrent,AdguardHome,openclash
+  - 插件:nps,frpc,frps,unblockNeteaseMusic,nps,ddns,
+  - 存储:qbittorrent,NFS
