@@ -11,4 +11,5 @@
 - 默认用户：root
 - 默认密码：password
 - 无Docker
-- 包含nps,frpc,frps,unblockNeteaseMusic,qbittorrent,AdguardHome,openclash
+- 包含
+  - nps,frpc,frps,unblockNeteaseMusic,qbittorrent,AdguardHome,openclash
